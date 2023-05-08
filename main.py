@@ -14,8 +14,8 @@ category_totals = abs(category_totals)
 
 #Sort values from smallest to largest
 category_totals = category_totals.sort_values()
-#
-# # Print out the total for each unique category
+
+# Print out the total for each unique category
 for category, total in category_totals.items():
     print(f"{category}: {total:.2f}")
 
