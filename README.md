@@ -1,2 +1,3 @@
 # spendingTracker
-Takes CSV financial statements and calculates total spending per category. 
+The application leverages the Matplotlib and Pandas libraries to manipulate CSV financial statements,
+employing advanced data formatting techniques and performing intricate calculations to determine expenditures.
