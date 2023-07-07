@@ -1,4 +1,3 @@
-
 # Project Name: Category Spending Analysis
 
 ## Description
@@ -30,6 +29,8 @@ python category_spending_analysis.py
 ```
 6. When prompted, enter the name of the CSV file (including the file extension) and press Enter.
 7. The script will process the data, print the total amounts for each category, and display a pie chart representing the distribution of spending across categories.
+
+<img width="1440" alt="piechartChase" src="https://github.com/Sailormoon10/spendingTracker/assets/68756541/68f60a02-3772-4e2c-9d44-5cc1931a6dd2">
 
 ## Example CSV Format
 The CSV file should have the following format:
