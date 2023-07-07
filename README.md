@@ -49,4 +49,3 @@ The Category Spending Analysis script utilizes the following open-source librari
 - pandas: https://pandas.pydata.org/
 - matplotlib: https://matplotlib.org/
 
-We would like to acknowledge and thank the developers and contributors of these projects for their valuable contributions to the Python ecosystem.
